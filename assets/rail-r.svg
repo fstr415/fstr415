@@ -1,30 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 389" width="120" height="389" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 138" width="190" height="138" role="img" aria-label="">
 <defs>
 <radialGradient id="bgspace" cx="50%" cy="0%" r="90%">
 <stop offset="0%" stop-color="#140502"/><stop offset="60%" stop-color="#070201"/><stop offset="100%" stop-color="#000"/>
 </radialGradient>
 <pattern id="scan2" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity="0.26"/></pattern>
-<clipPath id="p1"><rect x="20" y="30" width="300" height="160"/></clipPath>
-<clipPath id="p2"><rect x="350" y="30" width="300" height="160"/></clipPath>
-<clipPath id="p3"><rect x="680" y="30" width="300" height="160"/></clipPath>
 </defs>
-<rect width="120" height="389" fill="url(#bgspace)"/>
-<circle cx="32.4" cy="265.8" r="0.5" fill="#fff" fill-opacity="0.41"><animate attributeName="fill-opacity" values="0.41;0.08;0.41" dur="5.0s" repeatCount="indefinite"/></circle>
-<circle cx="69.0" cy="13.3" r="1.0" fill="#fff" fill-opacity="0.29"><animate attributeName="fill-opacity" values="0.29;0.06;0.29" dur="5.6s" repeatCount="indefinite"/></circle>
-<circle cx="19.4" cy="196.4" r="1.0" fill="#fff" fill-opacity="0.28"><animate attributeName="fill-opacity" values="0.28;0.06;0.28" dur="4.8s" repeatCount="indefinite"/></circle>
-<circle cx="70.8" cy="301.3" r="0.5" fill="#fff" fill-opacity="0.45"><animate attributeName="fill-opacity" values="0.45;0.09;0.45" dur="2.6s" repeatCount="indefinite"/></circle>
-<circle cx="105.8" cy="142.2" r="0.5" fill="#fff" fill-opacity="0.29"><animate attributeName="fill-opacity" values="0.29;0.06;0.29" dur="5.9s" repeatCount="indefinite"/></circle>
-<circle cx="68.9" cy="7.1" r="1.0" fill="#fff" fill-opacity="0.27"><animate attributeName="fill-opacity" values="0.27;0.05;0.27" dur="3.8s" repeatCount="indefinite"/></circle>
-<circle cx="25.6" cy="172.7" r="0.7" fill="#fff" fill-opacity="0.44"><animate attributeName="fill-opacity" values="0.44;0.09;0.44" dur="3.4s" repeatCount="indefinite"/></circle>
-<circle cx="34.2" cy="201.3" r="0.5" fill="#fff" fill-opacity="0.16"><animate attributeName="fill-opacity" values="0.16;0.03;0.16" dur="5.2s" repeatCount="indefinite"/></circle>
-<circle cx="96.9" cy="193.5" r="1.0" fill="#fff" fill-opacity="0.42"><animate attributeName="fill-opacity" values="0.42;0.08;0.42" dur="4.4s" repeatCount="indefinite"/></circle>
-<circle cx="8.0" cy="252.0" r="0.5" fill="#fff" fill-opacity="0.49"><animate attributeName="fill-opacity" values="0.49;0.1;0.49" dur="3.7s" repeatCount="indefinite"/></circle>
-<circle cx="44.8" cy="334.5" r="0.7" fill="#fff" fill-opacity="0.2"><animate attributeName="fill-opacity" values="0.2;0.04;0.2" dur="3.3s" repeatCount="indefinite"/></circle>
-<circle cx="83.1" cy="340.6" r="0.5" fill="#fff" fill-opacity="0.17"><animate attributeName="fill-opacity" values="0.17;0.03;0.17" dur="5.9s" repeatCount="indefinite"/></circle>
-<circle cx="20.7" cy="368.2" r="0.5" fill="#fff" fill-opacity="0.36"><animate attributeName="fill-opacity" values="0.36;0.07;0.36" dur="2.2s" repeatCount="indefinite"/></circle>
-<circle cx="7.3" cy="81.1" r="0.7" fill="#fff" fill-opacity="0.25"><animate attributeName="fill-opacity" values="0.25;0.05;0.25" dur="2.3s" repeatCount="indefinite"/></circle>
-<rect x="96" y="40" width="24" height="2" fill="#ff6a00" fill-opacity="0.25"/><rect x="96" y="84" width="24" height="2" fill="#ff6a00" fill-opacity="0.3"/><rect x="96" y="128" width="24" height="2" fill="#ff6a00" fill-opacity="0.35"/><rect x="96" y="172" width="24" height="2" fill="#ff6a00" fill-opacity="0.25"/><rect x="96" y="216" width="24" height="2" fill="#ff6a00" fill-opacity="0.3"/><rect x="96" y="260" width="24" height="2" fill="#ff6a00" fill-opacity="0.35"/><rect x="96" y="304" width="24" height="2" fill="#ff6a00" fill-opacity="0.25"/><rect x="96" y="348" width="24" height="2" fill="#ff6a00" fill-opacity="0.3"/>
-<line x1="1" y1="0" x2="1" y2="389" stroke="#ff6a00" stroke-opacity="0.5" stroke-width="2"/>
-<circle cx="90" cy="194" r="4" fill="#c1121f"><animate attributeName="fill-opacity" values="1;0.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
-<rect width="120" height="389" fill="url(#scan2)"/>
+<rect width="190" height="138" fill="url(#bgspace)"/>
+<circle cx="37.6" cy="117.6" r="0.7" fill="#fff" fill-opacity="0.15"><animate attributeName="fill-opacity" values="0.15;0.03;0.15" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="102.6" cy="2.4" r="0.5" fill="#fff" fill-opacity="0.35"><animate attributeName="fill-opacity" values="0.35;0.07;0.35" dur="4.2s" repeatCount="indefinite"/></circle>
+<circle cx="37.7" cy="9.5" r="0.5" fill="#fff" fill-opacity="0.37"><animate attributeName="fill-opacity" values="0.37;0.07;0.37" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="110.2" cy="23.8" r="1.0" fill="#fff" fill-opacity="0.4"><animate attributeName="fill-opacity" values="0.4;0.08;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="51.3" cy="94.3" r="0.5" fill="#fff" fill-opacity="0.41"><animate attributeName="fill-opacity" values="0.41;0.08;0.41" dur="5.0s" repeatCount="indefinite"/></circle>
+<circle cx="109.3" cy="4.7" r="1.0" fill="#fff" fill-opacity="0.29"><animate attributeName="fill-opacity" values="0.29;0.06;0.29" dur="5.6s" repeatCount="indefinite"/></circle>
+<circle cx="30.7" cy="69.7" r="1.0" fill="#fff" fill-opacity="0.28"><animate attributeName="fill-opacity" values="0.28;0.06;0.28" dur="4.8s" repeatCount="indefinite"/></circle>
+<circle cx="112.1" cy="106.9" r="0.5" fill="#fff" fill-opacity="0.45"><animate attributeName="fill-opacity" values="0.45;0.09;0.45" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="167.5" cy="50.4" r="0.5" fill="#fff" fill-opacity="0.29"><animate attributeName="fill-opacity" values="0.29;0.06;0.29" dur="5.9s" repeatCount="indefinite"/></circle>
+<circle cx="109.1" cy="2.5" r="1.0" fill="#fff" fill-opacity="0.27"><animate attributeName="fill-opacity" values="0.27;0.05;0.27" dur="3.8s" repeatCount="indefinite"/></circle>
+<rect x="166" y="22" width="24" height="2" fill="#ff6a00" fill-opacity="0.25"/><rect x="166" y="54" width="24" height="2" fill="#ff6a00" fill-opacity="0.3"/><rect x="166" y="86" width="24" height="2" fill="#ff6a00" fill-opacity="0.35"/><rect x="166" y="118" width="24" height="2" fill="#ff6a00" fill-opacity="0.25"/><line x1="1" y1="0" x2="1" y2="138" stroke="#ff6a00" stroke-opacity="0.5" stroke-width="2"/><text x="170" y="76" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="3" fill="#ff6a00" opacity="0.55">OPEN</text>
+<circle cx="150" cy="46" r="4" fill="#c1121f"><animate attributeName="fill-opacity" values="1;0.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+<rect width="190" height="138" fill="url(#scan2)"/>
 </svg>
