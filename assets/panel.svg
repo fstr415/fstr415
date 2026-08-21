@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360" width="620" height="360" role="img" aria-label="pilot data">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="pilot data">
 <defs>
 <radialGradient id="bgspace" cx="50%" cy="0%" r="90%">
 <stop offset="0%" stop-color="#140502"/><stop offset="60%" stop-color="#070201"/><stop offset="100%" stop-color="#000"/>
@@ -14,7 +14,7 @@
 <clipPath id="f2"><rect x="362" y="792" width="276" height="112"/></clipPath>
 <clipPath id="f3"><rect x="654" y="792" width="276" height="112"/></clipPath>
 </defs>
-<rect width="620" height="360" fill="url(#bgspace)"/>
+<rect width="640" height="360" fill="url(#bgspace)"/>
 <circle cx="287.1" cy="134.4" r="0.5" fill="#fff" fill-opacity="0.22"><animate attributeName="fill-opacity" values="0.22;0.04;0.22" dur="4.8s" repeatCount="indefinite"/></circle>
 <circle cx="209.8" cy="166.9" r="1.0" fill="#fff" fill-opacity="0.18"><animate attributeName="fill-opacity" values="0.18;0.04;0.18" dur="4.3s" repeatCount="indefinite"/></circle>
 <circle cx="382.3" cy="14.7" r="0.7" fill="#fff" fill-opacity="0.21"><animate attributeName="fill-opacity" values="0.21;0.04;0.21" dur="5.8s" repeatCount="indefinite"/></circle>
@@ -61,8 +61,8 @@
 <circle cx="42.8" cy="68.1" r="1.0" fill="#fff" fill-opacity="0.41"><animate attributeName="fill-opacity" values="0.41;0.08;0.41" dur="2.5s" repeatCount="indefinite"/></circle>
 <circle cx="18.5" cy="224.9" r="1.0" fill="#fff" fill-opacity="0.34"><animate attributeName="fill-opacity" values="0.34;0.07;0.34" dur="2.3s" repeatCount="indefinite"/></circle>
 <g fill="none" stroke="#ff6a00" stroke-width="2">
-<path d="M14 40 L14 14 L52 14"/><path d="M606 40 L606 14 L568 14"/>
-<path d="M14 320 L14 346 L52 346"/><path d="M606 320 L606 346 L568 346"/>
+<path d="M14 40 L14 14 L52 14"/><path d="M626 40 L626 14 L588 14"/>
+<path d="M14 320 L14 346 L52 346"/><path d="M626 320 L626 346 L588 346"/>
 </g>
 <text x="44" y="62" font-family="monospace" font-size="15" letter-spacing="6" fill="#ff6a00">PILOT DATA</text>
 <rect x="44" y="72" width="110" height="2" fill="#c1121f"/>
@@ -71,18 +71,18 @@
 <text x="44" y="148">origin</text><text x="230" y="148" fill="#ff6a00">ROMANIA</text>
 <text x="44" y="184">assignment</text><text x="230" y="184" fill="#ff6a00">DEVELOPER</text>
 </g>
-<rect x="44" y="206" width="532" height="1" fill="url(#hair)"/>
+<rect x="44" y="206" width="552" height="1" fill="url(#hair)"/>
 <g font-family="monospace" font-size="12" fill="#ffb37a">
 <text x="44" y="238">javascript</text>
-<rect x="150" y="228" width="426" height="9" fill="#2a1200"/>
+<rect x="150" y="228" width="446" height="9" fill="#2a1200"/>
 <rect x="150" y="228" width="0" height="9" fill="#ff6a00"><animate attributeName="width" values="0;362" dur="1.9s" fill="freeze"/></rect>
 <text x="44" y="272">luau</text>
-<rect x="150" y="262" width="426" height="9" fill="#2a1200"/>
+<rect x="150" y="262" width="446" height="9" fill="#2a1200"/>
 <rect x="150" y="262" width="0" height="9" fill="#ff6a00"><animate attributeName="width" values="0;298" dur="2.3s" fill="freeze"/></rect>
 <text x="44" y="306">typescript</text>
-<rect x="150" y="296" width="426" height="9" fill="#2a1200"/>
+<rect x="150" y="296" width="446" height="9" fill="#2a1200"/>
 <rect x="150" y="296" width="0" height="9" fill="#c1121f"><animate attributeName="width" values="0;190" dur="2.7s" fill="freeze"/></rect>
 </g>
 <text x="44" y="340" font-family="monospace" font-size="13" fill="#ff6a00">SYNC RATIO 62.3%<animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></text>
-<rect width="620" height="360" fill="url(#scan2)"/>
+<rect width="640" height="360" fill="url(#scan2)"/>
 </svg>
