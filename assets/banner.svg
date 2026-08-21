@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="nerv fstr banner">
+<defs>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ff6a00" stop-opacity="0"/>
+<stop offset="45%" stop-color="#ff6a00" stop-opacity="0.85"/>
+<stop offset="100%" stop-color="#ff6a00" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ff6a00" stop-opacity="0"/>
+<stop offset="50%" stop-color="#ff6a00" stop-opacity="0.22"/>
+<stop offset="100%" stop-color="#ff6a00" stop-opacity="0"/>
+</linearGradient>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+<path d="M20 0H0V20" fill="none" stroke="#ff6a00" stroke-opacity="0.09" stroke-width="1"/>
+</pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="2" fill="#000" fill-opacity="0.35"/>
+</pattern>
+<clipPath id="typeclip"><rect x="60" y="150" width="0" height="30"><animate attributeName="width" values="0;0;430;430;0" dur="9s" keyTimes="0;0.06;0.5;0.92;1" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="frame"><rect x="0" y="0" width="1000" height="260"/></clipPath>
+</defs>
+
+<g clip-path="url(#frame)">
+<rect width="1000" height="260" fill="#050505"/>
+<rect width="1000" height="260" fill="url(#grid)"/>
+
+<g opacity="0.5">
+<path d="M0 218 L120 218 L150 200 L200 236 L250 190 L300 226 L340 218 L1000 218" fill="none" stroke="#c1121f" stroke-width="1.5">
+<animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+</path>
+</g>
+
+<g fill="none" stroke="#ff6a00" stroke-width="2" opacity="0.9">
+<path d="M60 44 L60 30 L96 30"/>
+<path d="M940 44 L940 30 L904 30"/>
+<path d="M60 216 L60 230 L96 230"/>
+<path d="M940 216 L940 230 L904 230"/>
+</g>
+
+<g transform="translate(786 130)">
+<polygon points="0,-58 50,29 -50,29" fill="none" stroke="#ff6a00" stroke-width="2" opacity="0.85">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+</polygon>
+<polygon points="0,-34 29,17 -29,17" fill="#ff6a00" fill-opacity="0.12" stroke="#ff6a00" stroke-width="1">
+<animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="16s" repeatCount="indefinite"/>
+</polygon>
+<circle r="6" fill="#c1121f">
+<animate attributeName="r" values="4;9;4" dur="1.6s" repeatCount="indefinite"/>
+<animate attributeName="fill-opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+</g>
+
+<text x="60" y="108" font-family="Impact, 'Arial Black', Haettenschweiler, sans-serif" font-size="82" letter-spacing="14" fill="#ff6a00">FSTR</text>
+<text x="62" y="108" font-family="Impact, 'Arial Black', Haettenschweiler, sans-serif" font-size="82" letter-spacing="14" fill="#c1121f" opacity="0.55">
+FSTR
+<animate attributeName="opacity" values="0.55;0;0.55;0.2;0.55" dur="5s" repeatCount="indefinite"/>
+</text>
+
+<text x="62" y="132" font-family="monospace" font-size="13" letter-spacing="5" fill="#ff6a00" opacity="0.8">SPECIAL AGENCY // CODE DIVISION</text>
+
+<g clip-path="url(#typeclip)">
+<text x="60" y="172" font-family="monospace" font-size="18" fill="#e6e6e6">&gt; i code things on occasion.</text>
+</g>
+<rect y="156" width="9" height="18" fill="#ff6a00">
+<animate attributeName="x" values="60;60;490;490;60" dur="9s" keyTimes="0;0.06;0.5;0.92;1" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+
+<rect x="60" y="196" width="880" height="2" fill="url(#fade)"/>
+
+<rect x="0" y="-80" width="1000" height="80" fill="url(#sweep)">
+<animate attributeName="y" values="-80;260" dur="4.5s" repeatCount="indefinite"/>
+</rect>
+
+<rect width="1000" height="260" fill="url(#scan)"/>
+<rect width="1000" height="260" fill="none" stroke="#ff6a00" stroke-width="2"/>
+</g>
+</svg>
