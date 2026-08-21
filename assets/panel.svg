@@ -10,6 +10,9 @@
 <stop offset="0%" stop-color="#ff6a00" stop-opacity="0"/><stop offset="50%" stop-color="#ff6a00" stop-opacity="0.85"/><stop offset="100%" stop-color="#ff6a00" stop-opacity="0"/>
 </linearGradient>
 <pattern id="scan2" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity="0.26"/></pattern>
+<clipPath id="f1"><rect x="70" y="792" width="276" height="112"/></clipPath>
+<clipPath id="f2"><rect x="362" y="792" width="276" height="112"/></clipPath>
+<clipPath id="f3"><rect x="654" y="792" width="276" height="112"/></clipPath>
 </defs>
 <rect width="620" height="360" fill="url(#bgspace)"/>
 <circle cx="287.1" cy="134.4" r="0.5" fill="#fff" fill-opacity="0.22"><animate attributeName="fill-opacity" values="0.22;0.04;0.22" dur="4.8s" repeatCount="indefinite"/></circle>
@@ -64,23 +67,22 @@
 <text x="44" y="62" font-family="monospace" font-size="15" letter-spacing="6" fill="#ff6a00">PILOT DATA</text>
 <rect x="44" y="72" width="110" height="2" fill="#c1121f"/>
 <g font-family="monospace" font-size="13" fill="#ffb37a">
-<text x="44" y="106">designation</text><text x="230" y="106" fill="#ff6a00">FSTR / fstr415</text>
-<text x="44" y="134">origin</text><text x="230" y="134" fill="#ff6a00">ROMANIA</text>
-<text x="44" y="162">age</text><text x="230" y="162" fill="#ff6a00">18</text>
-<text x="44" y="190">assignment</text><text x="230" y="190" fill="#ff6a00">ROBLOX STUDIO — SCRIPTER</text>
+<text x="44" y="112">designation</text><text x="230" y="112" fill="#ff6a00">FSTR / fstr415</text>
+<text x="44" y="148">origin</text><text x="230" y="148" fill="#ff6a00">ROMANIA</text>
+<text x="44" y="184">assignment</text><text x="230" y="184" fill="#ff6a00">DEVELOPER</text>
 </g>
-<rect x="44" y="212" width="532" height="1" fill="url(#hair)"/>
+<rect x="44" y="206" width="532" height="1" fill="url(#hair)"/>
 <g font-family="monospace" font-size="12" fill="#ffb37a">
-<text x="44" y="240">javascript</text>
-<rect x="150" y="230" width="426" height="9" fill="#2a1200"/>
-<rect x="150" y="230" width="0" height="9" fill="#ff6a00"><animate attributeName="width" values="0;362" dur="1.9s" fill="freeze"/></rect>
+<text x="44" y="238">javascript</text>
+<rect x="150" y="228" width="426" height="9" fill="#2a1200"/>
+<rect x="150" y="228" width="0" height="9" fill="#ff6a00"><animate attributeName="width" values="0;362" dur="1.9s" fill="freeze"/></rect>
 <text x="44" y="272">luau</text>
 <rect x="150" y="262" width="426" height="9" fill="#2a1200"/>
 <rect x="150" y="262" width="0" height="9" fill="#ff6a00"><animate attributeName="width" values="0;298" dur="2.3s" fill="freeze"/></rect>
-<text x="44" y="304">typescript</text>
-<rect x="150" y="294" width="426" height="9" fill="#2a1200"/>
-<rect x="150" y="294" width="0" height="9" fill="#c1121f"><animate attributeName="width" values="0;190" dur="2.7s" fill="freeze"/></rect>
+<text x="44" y="306">typescript</text>
+<rect x="150" y="296" width="426" height="9" fill="#2a1200"/>
+<rect x="150" y="296" width="0" height="9" fill="#c1121f"><animate attributeName="width" values="0;190" dur="2.7s" fill="freeze"/></rect>
 </g>
-<text x="44" y="336" font-family="monospace" font-size="13" fill="#ff6a00">SYNC RATIO 62.3%<animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></text>
+<text x="44" y="340" font-family="monospace" font-size="13" fill="#ff6a00">SYNC RATIO 62.3%<animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></text>
 <rect width="620" height="360" fill="url(#scan2)"/>
 </svg>
